@@ -52,6 +52,7 @@
             {"name": "Chips", "quantity": 5},
             {"name": "Sprite", "quantity": 3},
             {"name": "Beer", "quantity": 50},
+             {"name": "More Beer", "quantity": 50},
         ];
 
         for (var i = 0; i < totalItems.length; i++) {
